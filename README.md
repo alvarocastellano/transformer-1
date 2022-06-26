@@ -8,8 +8,8 @@ GRUPO 1 INGENIERIA INFORMATICA- INGENIERIA DEL SOFTWARE
 UNIVERSIDAD DE SEVILLA
 ## Código
 
- - Implementación de "Vision Transformer" (ViT) para clasificación de imágenes
- - 
+ - Implementación de red neuronal mediante "Transformer" para clasificación de imágenes
+ - Implementación de CNN (convolutional neural network)
  
 
 ## Autores
